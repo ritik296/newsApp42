@@ -1,0 +1,31 @@
+.card-view{
+    /* width: 0rem; */
+    max-width: 45rem;
+    min-width: 23rem;
+    min-height: 23rem;
+    max-height: 30.5rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* box-shadow: 0 0 0px rgba(0, 0, 0, 0.5); */
+    /* margin: 6px; */
+    /* background-color: black; */
+}
+
+.cara-view{
+    /* justify-content: space-evenly; */
+    /* background-color: black; */
+    /* overflow-y: auto; */
+    /* height:90vh; */
+}
+
+.news-image{
+    height: 40%;
+}
+
+.publish-time{
+    /* margin-bottom: 19%; */
+    margin-right: 6%;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: column-reverse row-reverse;
+}
